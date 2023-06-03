@@ -46,9 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-### Name:
-### Register Number:
+![OUTPUT](/mechanics%20exp-8.1.png)
+### Name: HARSHA VARDHAN
+### Register Number: 212222240114
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
